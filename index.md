@@ -1,3 +1,0 @@
-# RISEE website
-
-hello world
