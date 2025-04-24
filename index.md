@@ -11,7 +11,7 @@ In the research and development (R&D) and verification and validation (V&V) phas
 ## Examples of FPV Videos
 
 <div style="text-align: center;">
-  <video src="src/videos_gifs/typical_safe.mp4.mp4" controls="controls" width="1500" height="300"></video>
+  <video src="src/videos_gifs/typical_safe.mp4" controls="controls" width="1000" height="200"></video>
 </div>
 
 ## Citation
