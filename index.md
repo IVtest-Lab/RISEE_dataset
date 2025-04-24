@@ -10,9 +10,28 @@ In the research and development (R&D) and verification and validation (V&V) phas
 
 ## Examples of FPV Videos
 
+### Typical Scenarios
+
+Typical scenarios are used to calibrate participants’ risk expectations (i.e., all the viewed scenarios’ risk levels are bracketed between these two reference extremes)。
+
+- Typical Safe Scenario
 <div style="text-align: center;">
-  <video src="src/videos_gifs/typical_safe.mp4" controls="controls" width="1000" height="200"></video>
+  <video src="src/videos_gifs/typical_safe.mp4" controls="controls" width="900" height="160"></video>
 </div>
+
+- Typical Critical Scenario
+<div style="text-align: center;">
+  <video src="src/videos_gifs/typical_critical.mp4" controls="controls" width="900" height="160"></video>
+</div>
+
+### Baseline Scenarios
+
+Baseline videos are used to acclimate participants to the viewing environment.
+
+- Baseline Scenaro with a Sedan's Perspactive
+
+
+- Baseline Scenaro with a Truck's Perspactive
 
 ## Citation
 
