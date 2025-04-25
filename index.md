@@ -16,12 +16,12 @@ Typical scenarios are used to calibrate participants’ risk expectations (i.e.,
 
 - Typical Safe Scenario
 <div style="text-align: center;">
-  <video src="src/videos_gifs/typical_safe.mp4" controls="controls" width="900" height="160"></video>
+  <video src="src/videos_gifs/typical_safe.mp4" controls="controls" width="853" height="160"></video>
 </div>
 
 - Typical Critical Scenario
 <div style="text-align: center;">
-  <video src="src/videos_gifs/typical_critical.mp4" controls="controls" width="900" height="160"></video>
+  <video src="src/videos_gifs/typical_critical.mp4" controls="controls" width="853" height="160"></video>
 </div>
 
 ### Baseline Scenarios
