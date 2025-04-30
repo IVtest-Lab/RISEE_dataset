@@ -1,5 +1,5 @@
-description: A Risk-Informed Subjective Evaluation and Eye-tracking (RISEE) dataset. <br> Work by Xinzheng Wu, Junyi Chen, Peiyi Wang, Shunxiang Chen, and Yong Shen<br><br> 
+description: A Risk-Informed Subjective Evaluation and Eye-tracking (RISEE) dataset. <br> Work by Xinzheng Wu, Junyi Chen, Peiyi Wang, Shunxiang Chen, and Yong Shen<br>Tongji University<br> 
 theme: jekyll-theme-cayman
 links:
-  arxiv: https://arxiv.org/abs/2503.22496
-  code: https://github.com/princeton-computational-imaging/scenario-dreamer
+  arxiv: https://arxiv.org/
+  code: https://github.com/IVtest-Lab/RISEE_dataset
