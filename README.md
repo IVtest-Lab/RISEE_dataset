@@ -4,25 +4,33 @@ Full data will be released by ITSC 2025.
 
 ## Data Organization
 
-- `example_files/`
-  - `map.xodr` : the map of the recording site in OpenDrive format
-  - `trajectory_example.csv` : example of the extracted highly interative scenarios
-  - `eye-trcking_example.csv` : example of the eye-tracking data
-- `full_data/`
-  - `map.xodr` : the map of the recording site in OpenDrive format
-  - `overall_sub&obj_risk.xlsx` : average subjective risk perception results, TTC and DNDA of each scenario
-  - `cross-references.xlsx` : correspondence between participants and scenarios
-  - `trajectoris_data/`
-    - `scenario_01.csv`
-    - `scenario_02.csv`
-    - ...
-  - `eye-tracking_data/`
-    - `secnario_01/`
-      - `participant_01.csv`
-      - `participant_02.csv`
-      - ...
-    - `scenario_02/`
-      - ...
+```shell
+RISEE_dataset
+├── example_files/
+│   ├── map.xodr                      # the map of the recording site in OpenDrive format
+│   ├── trajectory_example.csv        # example of the extracted highly interative scenarios
+│   └── eye-trcking_example.csv       # example of the eye-tracking data
+│
+├── full_data/
+│   ├── map.xodr                      # the map of the recording site in OpenDrive format
+│   ├── overall_sub_obj_risk.xlsx     # average subjective risk perception results, TTC and DNDA of each scenario
+│   ├── cross-references.xlsx         # correspondence between participants and scenarios
+│   ├── trajectoris_data/
+│   │   ├── scenario_001.csv
+│   │   ├── scenario_002.csv
+│   │   ├── ...
+│   │   └── scenario_179.csv
+│   └── eye-tracking_data/
+│       ├── scenario_001/              # each scenario is evlauted by at least 20 different participants
+│       │   ├── participant_xxx.csv    # but not all of their eye-tracking data is valid
+│       │   ├── ...
+│       │   └── participant_xxx.csv
+│       ├── scenario_002/ 
+│       ├── ... 
+│       └── scenario_179/  
+│
+└── data_format_description.pdf
+```
 
 
 ## Citation
