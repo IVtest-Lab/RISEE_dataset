@@ -3,6 +3,9 @@
 
 Full data will be released by ITSC 2025.
 
+For detailed data format description, please refer to [@data_format_description.pdf](data_format_description.pdf)
+
+
 ## Data Organization
 
 ```shell
