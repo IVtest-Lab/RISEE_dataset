@@ -44,3 +44,6 @@ RISEE_dataset
   
 }
 ```
+
+## Contact
+If you have any questions or suggestions, please feel free to open an issue or contact us (*wuxinzheng@tongji.edu.cn* or *chenjunyi@tongji.edu.cn*).
