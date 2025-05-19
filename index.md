@@ -64,4 +64,4 @@ Baseline videos are used to acclimate participants to the viewing environment.
 ```
 
 ## Contact
-If you have any questions or suggestions, please feel free to open an issue or contact us (*wuxinzheng@tongji.edu.cn* or *chenjunyi@tongji.edu.cn*).
+If you have any questions or suggestions, please feel free to open an issue on [GitHub](https://github.com/IVtest-Lab/RISEE_dataset) or contact us (*wuxinzheng@tongji.edu.cn* or *chenjunyi@tongji.edu.cn*).
