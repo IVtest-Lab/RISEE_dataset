@@ -1,11 +1,3 @@
 # RISEE Dataset
 
-Data will be released by ITSC 2025.
-
-## Citation
-
-```bibtex
-@InProceedings{,
-  
-}
-```
+For detailed information, please refer to the "main" branch.

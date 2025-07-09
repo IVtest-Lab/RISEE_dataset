@@ -1,5 +1,5 @@
 description: A Risk-Informed Subjective Evaluation and Eye-tracking (RISEE) dataset. <br> Work by Xinzheng Wu, Junyi Chen, Peiyi Wang, Shunxiang Chen, and Yong Shen<br>Tongji University<br> 
 theme: jekyll-theme-cayman
 links:
-  arxiv: https://arxiv.org/
+  preprint: https://chinaxiv.org/abs/202507.00069?locale=en
   code: https://github.com/IVtest-Lab/RISEE_dataset
