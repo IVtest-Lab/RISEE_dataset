@@ -1,7 +1,9 @@
 # RISEE Dataset
 [![website](https://img.shields.io/badge/Website-Explore%20Now-blueviolet?style=flat&logo=google-chrome)](https://ivtest-lab.github.io/RISEE_dataset/)
 
-Full data will be released by ITSC 2025.
+###  :fire: Full data is available now.
+
+This is the official implementation of ITSC 2025 paper: "RISEE: A Highly Interactive Naturalistic Driving Trajectories Dataset with Human Subjective Risk Perception and Eye-Tracking Information", Xinzheng Wu, Junyi Chen, Peiyi Wang, Shunxiang Chen, Haolan Meng, Yong Shen.
 
 For detailed data format description, please refer to [@data_format_description.pdf](data_format_description.pdf)
 
@@ -44,3 +46,6 @@ RISEE_dataset
   
 }
 ```
+
+## Contact
+If you have any questions or suggestions, please feel free to open an issue or contact us (*wuxinzheng@tongji.edu.cn* or *chenjunyi@tongji.edu.cn*).
