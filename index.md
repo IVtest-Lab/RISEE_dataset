@@ -58,9 +58,14 @@ Baseline videos are used to acclimate participants to the viewing environment.
 ## Citation
 
 ```bibtex
-@InProceedings{,
-  
-}
+@article{risee2025,                                                 
+   title={{RISEE}: A Highly Interactive Naturalistic Driving Trajectories Dataset with Human Subjective Risk Perception and Eye-tracking Information},                 
+   author={Wu, Xinzheng and Chen, Junyi and Wang, Peiyi and Chen, Shunxiang and Meng, Haolan and Shen, Yong},       
+   journal={Preprint at ChinaXiv},                                   
+   year={2025},                                                      
+   doi={10.12074/202507.00069},                                              
+   note={Preprint accepted by IEEE ITSC 2025}                        
+}   
 ```
 
 ## Contact
