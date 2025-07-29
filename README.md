@@ -1,5 +1,6 @@
 # RISEE Dataset
 [![website](https://img.shields.io/badge/Website-Explore%20Now-blueviolet?style=flat&logo=google-chrome)](https://ivtest-lab.github.io/RISEE_dataset/)
+[![paper](https://img.shields.io/badge/arXiv-Paper-B31B1B?logo=arxiv)](https://arxiv.org/abs/2507.19490)
 [![paper](https://img.shields.io/badge/chinaXiv-Paper-<COLOR>.svg)](https://chinaxiv.org/abs/202507.00069?&locale=en)
 
 ###  :fire: Full data is available now.
@@ -50,11 +51,10 @@ If you find this repository useful for your research, please consider giving us 
 @article{risee2025,                                                 
    title={RISEE: A Highly Interactive Naturalistic Driving Trajectories Dataset with Human Subjective Risk Perception and Eye-tracking Information},                 
    author={Wu, Xinzheng and Chen, Junyi and Wang, Peiyi and Chen, Shunxiang and Meng, Haolan and Shen, Yong},       
-   journal={Preprint at ChinaXiv},                                   
-   year={2025},                                                      
-   doi={10.12074/202507.00069},                                              
+   journal={arXiv preprint arXiv:2507.19490},                                   
+   year={2025},                                            
    note={Preprint accepted by IEEE ITSC 2025}                        
-}   
+}
 ```
 
 ## Contact
