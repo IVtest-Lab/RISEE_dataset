@@ -4,6 +4,7 @@
 [![paper](https://img.shields.io/badge/chinaXiv-Paper-<COLOR>.svg)](https://chinaxiv.org/abs/202507.00069?&locale=en)
 
 ###  :fire: Full data is available now.
+[All FPV videos used in the experiment are now available. Please email us if needed.]
 
 This is the official implementation of ITSC 2025 paper: "[RISEE: A Highly Interactive Naturalistic Driving Trajectories Dataset with Human Subjective Risk Perception and Eye-Tracking Information](https://chinaxiv.org/abs/202507.00069?locale=en)", Xinzheng Wu, Junyi Chen, Peiyi Wang, Shunxiang Chen, Haolan Meng, Yong Shen.
 
