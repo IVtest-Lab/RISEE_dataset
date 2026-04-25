@@ -6,7 +6,7 @@
 ###  :fire: Full data is available now.
 [All FPV videos used in the experiment are now available. Please email us if needed.]
 
-This is the official implementation of ITSC 2025 paper: "[RISEE: A Highly Interactive Naturalistic Driving Trajectories Dataset with Human Subjective Risk Perception and Eye-Tracking Information](https://chinaxiv.org/abs/202507.00069?locale=en)", Xinzheng Wu, Junyi Chen, Peiyi Wang, Shunxiang Chen, Haolan Meng, Yong Shen.
+This is the official implementation of ITSC 2025 paper: "[RISEE: A Highly Interactive Naturalistic Driving Trajectories Dataset with Human Subjective Risk Perception and Eye-Tracking Information]([https://chinaxiv.org/abs/202507.00069?locale=en](https://ieeexplore.ieee.org/document/11423845))", Xinzheng Wu, Junyi Chen, Peiyi Wang, Shunxiang Chen, Haolan Meng, Yong Shen.
 
 ## Data Format
 
@@ -49,12 +49,15 @@ RISEE_dataset
 If you find this repository useful for your research, please consider giving us a star :star2: and citing our paper.
 
 ```bibtex
-@article{risee2025,                                                 
-   title={RISEE: A Highly Interactive Naturalistic Driving Trajectories Dataset with Human Subjective Risk Perception and Eye-tracking Information},                 
-   author={Wu, Xinzheng and Chen, Junyi and Wang, Peiyi and Chen, Shunxiang and Meng, Haolan and Shen, Yong},       
-   journal={arXiv preprint arXiv:2507.19490},                                   
-   year={2025},                                            
-   note={Preprint accepted by IEEE ITSC 2025}                        
+@inproceedings{wu2025riseea,
+  title = {RISEE: A Highly Interactive Naturalistic Driving Trajectories Dataset with Human Subjective Risk Perception and Eye-Tracking Information},
+  booktitle = {2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)},
+  author = {Wu, Xinzheng and Chen, Junyi and Wang, Peiyi and Chen, Shunxiang and Meng, Haolan and Shen, Yong},
+  year = 2025,
+  month = nov,
+  pages = {2315--2322},
+  issn = {2153-0017},
+  doi = {10.1109/ITSC60802.2025.11423845}
 }
 ```
 
